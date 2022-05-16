@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript, CSS, HTML and Java.
 - 💞️ I’m looking to collaborate on small projects, open source programs and learning groups.
 - 📫 How to reach me:
--     Twitter: 
+-     Twitter: @dominiLoad
 -     Instagram:
 -     Website:
 -     Email: 
